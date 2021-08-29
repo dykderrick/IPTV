@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png" group-title="Singapore",CNA (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="English" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Malaysia",HBO Malaysia (720p)
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
