@@ -87,6 +87,21 @@ http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tia
 #EXTINF:-1 tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv
 
+#EXTINF:-1 tvg-id="AnHuiRenWu.cn" tvg-name="安徽人物" tvg-country="CN" tvg-language="" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahrw.jpg" group-title="China",安徽人物 (480p)
+http://149.129.100.78/anhui.php?id=69
+
+#EXTINF:-1 tvg-id="AnHuiGongGong.cn" tvg-name="安徽公共" tvg-country="CN" tvg-language="" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgg.jpg" group-title="China",安徽公共 (480p)
+http://149.129.100.78/anhui.php?id=50
+
+#EXTINF:-1 tvg-id="AnHuiNongYeKeJiao.cn" tvg-name="安徽农业科教" tvg-country="CN" tvg-language="" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahkj.jpg" group-title="China",安徽农业科教 (480p)
+http://149.129.100.78/anhui.php?id=51
+
+#EXTINF:-1 tvg-id="AnHuiYingShi.cn" tvg-name="安徽影视" tvg-country="CN" tvg-language="" tvg-logo="http://www.tvyan.com/uploads/dianshi/anhys.jpg" group-title="China",安徽影视 (480p)
+http://149.129.100.78/anhui.php?id=72
+
+#EXTINF:-1 tvg-id="AnHuiZongYiTiYu.cn" tvg-name="安徽综艺体育" tvg-country="CN" tvg-language="" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahzy.jpg" group-title="China",安徽综艺体育 (480p)
+http://149.129.100.78/anhui.php?id=73
+
 #EXTINF:-1 tvg-id="shandong" tvg-logo="shandong.png",山东卫视
 http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
 
